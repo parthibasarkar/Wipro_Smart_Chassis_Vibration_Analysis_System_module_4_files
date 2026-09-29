@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/Wipro_module_4_files.ino.bin"
+elf = "build/Wipro_module_4_files.ino.elf"
